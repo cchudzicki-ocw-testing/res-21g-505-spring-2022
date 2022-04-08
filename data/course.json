@@ -1,0 +1,41 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Japanese"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "a5691d44-4ed0-67fc-77c2-ba2830da98b3",
+      "2d223f0c-c001-5324-22e8-f1b16be3f074"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "kanji-learning-any-time-any-place-for-japanese-v"
+  },
+  "course_title": "Kanji Learning Any Time, Any Place for Japanese V",
+  "course_description": "This resource aims to enhance students\u2019 learning of kanji by providing a series of video lectures that cover the kanji characters in [Tobira](https://tobiraweb.9640.jp/) lessons 1\u20135. The video lectures not only teach how to write kanji but also provide stories behind the kanji characters.",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.21G-505",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "kanji-learning-any-time-any-place-for-japanese-v"
+  },
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "site_uid": "5f6d6a4f-7ebb-45d7-ae7a-f26625d87191"
+}
