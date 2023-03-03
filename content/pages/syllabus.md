@@ -45,3 +45,5 @@ Tobira lesson 10: 訪 景 区 危 険 役 省 冷 将 情 報 独 身 遠 並
 ## Additional Resources
 
 The stroke order animation in each video was created using the [web application](https://app.kanjialive.com/search) developed by [Kanji alive](https://kanjialive.com/) (under Creative Commons license, CC BY 4.0). Students can learn more about the stroke order and search for the kanji in each lesson, e.g. using “text:jt:c6” to find kanji in lesson 6 with this web application.
+
+{{< resource uuid="c9ac8995-c325-4d7c-8a3f-8ab6fd5527a4" >}}
