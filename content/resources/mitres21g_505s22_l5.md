@@ -11,7 +11,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MITRES21G_505S22_L5.mp4
+title: Tobira Lesson 5 Kanji.mp4
 uid: 939b3d11-d9b2-48ae-9f8d-cd2aa9476a5c
 video_files:
   video_captions_file: /courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022/mitres21g_505s22_l5_captions.vtt
@@ -23,3 +23,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: q7WZdYAaVtQ
 ---
+This dual language video covers the Japanese kanji characters in Lesson 5 of the textbook, "Tobira Gateway to Advanced Japanese Learning Through Content and Multimedia."
