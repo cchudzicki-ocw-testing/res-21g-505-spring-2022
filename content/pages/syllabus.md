@@ -23,23 +23,23 @@ KANJI
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
-Tobira lesson 6: 置 式 石 査 熱 民 急 紀 倍 参 加 個 反 賛 果
+Tobira lesson 1: 市, 平, 伝, 別, 形, 決, 和, 的, 建, 美, 島, 差, 残, 特, 達, 温, 覚, 說, 選
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
-Tobira lesson 7: 済 品 虫 丸 命 戦 争 未 深 閉 号 悲 静 払 格
+Tobira lesson 2: 比, 代, 必, 由, 合, 忙, 実, 性, 表, 昨, 相, 要, 晚, 短, 感, 難
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
-Tobira lesson 8: 効 科 減 完 登 公 逆 低 点 常 写 真 確 村.
+Tobira lesson 3: 他, 両, 当, 助, 声, 供, 呼, 苦, 法, 泣, 念, 直, 単, 発, 首, 連, 笑, 集, 解
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
-Tobira lesson 9: 制 満 進 落 協 位 幸 可 原 因 求 容 算 等 喜
+Tobira lesson 4: 与, 內, 正, 礼, 向, 成, 対, 例, 彼, 育, 係, 負, 速, 能, 現, 組, 勝, 絕, 関
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
-Tobira lesson 10: 訪 景 区 危 険 役 省 冷 将 情 報 独 身 遠 並
+Tobira lesson 5: 以, 功, 失, 在, 米, 信, 客, 流, 得, 敗, 数, 続, 増, 億
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
 ## Additional Resources
