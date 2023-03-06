@@ -19,12 +19,13 @@ video_files:
   video_thumbnail_file: https://img.youtube.com/vi/3N1A14hQjZA/default.jpg
   video_transcript_file: /courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022/mitres21g_505s22_l3_transcript.pdf
 video_metadata:
-  video_speakers: ''
-  video_tags: ''
+  video_speakers: Takako Aikawa
+  video_tags: "\u4ED6, \u4E21, \u5F53, \u52A9, \u58F0, \u4F9B, \u547C, \u82E6, \u6CD5\
+    , \u6CE3, \u5FF5, \u76F4, \u5358, \u767A, \u9996, \u9023, \u7B11, \u96C6, \u89E3"
   youtube_description: "MIT RES.21G-505,Spring 2022\nInstructor: Takako Aikawa\n\n\
     View the complete resource: https://ocw.mit.edu/courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62Mr5APSizHgFa0hRiWgPln\n\
-    \nThis dual language video covers the Japanese kanji characters in Lesson 2 of\
+    \nThis dual language video covers the Japanese kanji characters in Lesson 3 of\
     \ the textbook, \"Tobira Gateway to Advanced Japanese Learning Through Content\
     \ and Multimedia.\"\n\nLicense: Creative Commons BY-NC-SA\nMore information at\
     \ https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
