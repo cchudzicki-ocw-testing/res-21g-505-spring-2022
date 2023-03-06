@@ -19,17 +19,20 @@ video_files:
   video_thumbnail_file: https://img.youtube.com/vi/_FtXi0_ZMvk/default.jpg
   video_transcript_file: /courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022/mitres21g_505s22_l1_transcript.pdf
 video_metadata:
-  video_speakers: ''
-  video_tags: ''
+  video_speakers: Takako Aikawa
+  video_tags: "\u5E02, \u5E73, \u4F1D, \u5225, \u5F62, \u6C7A, \u548C, \u7684, \u5EFA\
+    , \u7F8E, \u5CF6, \u5DEE, \u6B8B, \u7279, \u9054, \u6E29, \u899A, \u8AAA, \u9078"
   youtube_description: "MIT RES.21G-505,Spring 2022\nInstructor: Takako Aikawa\n\n\
-    View the complete resourse: <url to course home page when published>\nYouTube\
-    \ Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62Mr5APSizHgFa0hRiWgPln\n\
-    \n<video description - it can be the same as the \"Description\" field>\n\nLicense:\
-    \ Creative Commons BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore\
-    \ courses at https://ocw.mit.edu\nSupport OCW at http://ow.ly/a1If50zVRlQ\n\n\
-    We encourage constructive comments and discussion on OCW\u2019s YouTube and other\
-    \ social media channels. Personal attacks, hate speech, trolling, and inappropriate\
-    \ comments are not allowed and may be removed. More details at https://ocw.mit.edu/comments."
+    View the complete resource: https://ocw.mit.edu/courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62Mr5APSizHgFa0hRiWgPln\n\
+    \nThis dual language video covers the Japanese kanji characters in Lesson 5 of\
+    \ the textbook, \"Tobira Gateway to Advanced Japanese Learning Through Content\
+    \ and Multimedia.\"\n\nLicense: Creative Commons BY-NC-SA\nMore information at\
+    \ https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
+    \ at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion\
+    \ on OCW\u2019s YouTube and other social media channels. Personal attacks, hate\
+    \ speech, trolling, and inappropriate comments are not allowed and may be removed.\
+    \ More details at https://ocw.mit.edu/comments."
   youtube_id: _FtXi0_ZMvk
 ---
 This dual language video covers the Japanese kanji characters in Lesson 5 of the textbook, "Tobira Gateway to Advanced Japanese Learning Through Content and Multimedia."
