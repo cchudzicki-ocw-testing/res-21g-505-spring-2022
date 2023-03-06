@@ -8,10 +8,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Video Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: MITRES21G_505S22_L3.mp4
+title: Tobira Lesson 3 Kanji.mp4
 uid: e5fe8aed-7119-4f99-b4ee-b925907efc90
 video_files:
   video_captions_file: /courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022/mitres21g_505s22_l3_captions.vtt
@@ -20,6 +21,17 @@ video_files:
 video_metadata:
   video_speakers: ''
   video_tags: ''
-  youtube_description: ''
+  youtube_description: "MIT RES.21G-505,Spring 2022\nInstructor: Takako Aikawa\n\n\
+    View the complete resource: https://ocw.mit.edu/courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022\n\
+    YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62Mr5APSizHgFa0hRiWgPln\n\
+    \nThis dual language video covers the Japanese kanji characters in Lesson 2 of\
+    \ the textbook, \"Tobira Gateway to Advanced Japanese Learning Through Content\
+    \ and Multimedia.\"\n\nLicense: Creative Commons BY-NC-SA\nMore information at\
+    \ https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
+    \ at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion\
+    \ on OCW\u2019s YouTube and other social media channels. Personal attacks, hate\
+    \ speech, trolling, and inappropriate comments are not allowed and may be removed.\
+    \ More details at https://ocw.mit.edu/comments."
   youtube_id: 3N1A14hQjZA
 ---
+This dual language video covers the Japanese kanji characters in Lesson 3 of the textbook, "Tobira Gateway to Advanced Japanese Learning Through Content and Multimedia."
