@@ -25,7 +25,7 @@ video_metadata:
   youtube_description: "MIT RES.21G-505,Spring 2022\nInstructor: Takako Aikawa\n\n\
     View the complete resource: https://ocw.mit.edu/courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62Mr5APSizHgFa0hRiWgPln\n\
-    \nThis dual language video covers the Japanese kanji characters in Lesson 5 of\
+    \nThis dual language video covers the Japanese kanji characters in Lesson 1 of\
     \ the textbook, \"Tobira Gateway to Advanced Japanese Learning Through Content\
     \ and Multimedia.\"\n\nLicense: Creative Commons BY-NC-SA\nMore information at\
     \ https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
@@ -35,4 +35,4 @@ video_metadata:
     \ More details at https://ocw.mit.edu/comments."
   youtube_id: _FtXi0_ZMvk
 ---
-This dual language video covers the Japanese kanji characters in Lesson 5 of the textbook, "Tobira Gateway to Advanced Japanese Learning Through Content and Multimedia."
+This dual language video covers the Japanese kanji characters in Lesson 1 of the textbook, "Tobira Gateway to Advanced Japanese Learning Through Content and Multimedia."
