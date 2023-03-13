@@ -12,7 +12,7 @@ learning_resource_types:
 - Video Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: Tobira Lesson 2 Kanji.mp4
+title: 'Video 1:  Kanji in Tobira Lesson 2'
 uid: c53666e3-5768-4e9f-89c6-552c4e504df2
 video_files:
   video_captions_file: /courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022/mitres21g_505s22_l2_captions.vtt
@@ -22,8 +22,8 @@ video_metadata:
   video_speakers: Takako Aikawa
   video_tags: "\u6BD4, \u4EE3, \u5FC5, \u7531, \u5408, \u5FD9, \u5B9F, \u6027, \u8868\
     , \u6628, \u76F8, \u8981, \u665A, \u77ED, \u611F, \u96E3"
-  youtube_description: "MIT RES.21G-505,Spring 2022\nInstructor: Takako Aikawa\n\n\
-    View the complete resource: https://ocw.mit.edu/courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022\n\
+  youtube_description: "MIT RES.21G-505 Kanji Learning Any Time, Any Place for Japanese\
+    \ V, Spring 2022\nInstructor: Takako Aikawa\n\nView the complete resource: https://ocw.mit.edu/courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62Mr5APSizHgFa0hRiWgPln\n\
     \nThis dual language video covers the Japanese kanji characters in Lesson 2 of\
     \ the textbook, \"Tobira Gateway to Advanced Japanese Learning Through Content\
@@ -35,4 +35,6 @@ video_metadata:
     \ More details at https://ocw.mit.edu/comments."
   youtube_id: zZlD3c_1PLg
 ---
-This dual language video covers the Japanese kanji characters in Lesson 2 of the textbook, "Tobira Gateway to Advanced Japanese Learning Through Content and Multimedia."
+**Description**: This is a dual-language video, with content in both Japanese and English. Selecting either English or Japanese captions will provide the same dual-language captions. This video covers the Japanese kanji characters in Lesson 2 of the textbook, [*Tobira: Gateway to Advanced Japanese Learning Through Content and Multimedia*](https://tobiraweb.9640.jp/).
+
+**Instructor**: Dr. Takako Aikawa
