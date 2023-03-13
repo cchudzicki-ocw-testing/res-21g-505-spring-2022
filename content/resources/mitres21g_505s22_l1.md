@@ -22,7 +22,7 @@ video_metadata:
   video_speakers: Takako Aikawa
   video_tags: "\u5E02, \u5E73, \u4F1D, \u5225, \u5F62, \u6C7A, \u548C, \u7684, \u5EFA\
     , \u7F8E, \u5CF6, \u5DEE, \u6B8B, \u7279, \u9054, \u6E29, \u899A, \u8AAA, \u9078"
-  youtube_description: "MIT 21G.505 Kanji Learning Any Time, Any Place for Japanese\
+  youtube_description: "MIT RES.21G-505 Kanji Learning Any Time, Any Place for Japanese\
     \ V, Spring 2022\nInstructor: Takako Aikawa\n\nView the complete resource: https://ocw.mit.edu/courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62Mr5APSizHgFa0hRiWgPln\n\
     \nThis dual language video covers the Japanese kanji characters in Lesson 1 of\
