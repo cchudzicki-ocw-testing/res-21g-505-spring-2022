@@ -12,7 +12,7 @@ learning_resource_types:
 - Video Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Video
-title: 'Video 1:  Kanji in Tobira Lesson 2'
+title: 'Video 2:  Kanji in Tobira Lesson 2'
 uid: c53666e3-5768-4e9f-89c6-552c4e504df2
 video_files:
   video_captions_file: /courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022/mitres21g_505s22_l2_captions.vtt
