@@ -25,10 +25,12 @@ video_metadata:
   youtube_description: "MIT RES.21G-505 Kanji Learning Any Time, Any Place for Japanese\
     \ V, Spring 2022\nInstructor: Takako Aikawa\n\nView the complete resource: https://ocw.mit.edu/courses/res-21g-505-kanji-learning-any-time-any-place-for-japanese-v-spring-2022\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62Mr5APSizHgFa0hRiWgPln\n\
-    \nThis dual language video covers the Japanese kanji characters in Lesson 1 of\
-    \ the textbook, \"Tobira Gateway to Advanced Japanese Learning Through Content\
-    \ and Multimedia.\"\n\nLicense: Creative Commons BY-NC-SA\nMore information at\
-    \ https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
+    \nThis is a dual-language video, with content in both Japanese and English. Selecting\
+    \ either English or Japanese captions will provide the same dual-language captions.\
+    \ This video covers the Japanese kanji characters in Lesson 1 of the textbook,\
+    \ Tobira: Gateway to Advanced Japanese Learning Through Content and Multimedia\
+    \ at https://tobiraweb.9640.jp/.\n\nLicense: Creative Commons BY-NC-SA\nMore information\
+    \ at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
     \ at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion\
     \ on OCW\u2019s YouTube and other social media channels. Personal attacks, hate\
     \ speech, trolling, and inappropriate comments are not allowed and may be removed.\
