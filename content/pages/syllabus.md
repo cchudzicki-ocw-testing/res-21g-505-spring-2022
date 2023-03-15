@@ -44,4 +44,4 @@ Tobira lesson 5: 以, 功, 失, 在, 米, 信, 客, 流, 得, 敗, 数, 続, 増
 
 ## Additional Resources
 
-The stroke order animation in each video was created using the [web application](https://app.kanjialive.com/search) developed by [Kanji alive](https://kanjialive.com/) (under Creative Commons license, CC BY 4.0). Students can learn more about the stroke order and search for the kanji in each lesson, e.g. using “text:jt:c6” to find kanji in lesson 6 with this web application.
+The stroke order animation in each video was created using the web application developed by [Kanji alive](https://kanjialive.com/) (under Creative Commons license, CC BY 4.0). Students can learn more about the stroke order and search for the kanji in each lesson, e.g. using “text:jt:c1” to find kanji in lesson 1 with this [Kanji alive web application](https://app.kanjialive.com/search).
