@@ -8,7 +8,7 @@ uid: 484606be-418d-4457-92e6-094d006eddc4
 ---
 ## Description
 
-This course aims to enhance students’ learning of kanji by providing a series of video lectures that cover the kanji characters in [Tobira](https://tobiraweb.9640.jp/) lessons 1–5. The video lectures not only teach how to write kanji but also provide stories behind the kanji characters, so that students can memorize them in a systematic and meaningful way. They make kanji learning more captivating and fun!
+This resource aims to enhance students’ learning of kanji by providing a series of video lectures that cover the kanji characters in lessons 1–5 of the [Tobira](https://tobiraweb.9640.jp/) textbook. The video lectures not only teach how to write kanji but also provide stories behind the kanji characters, so that students can memorize them in a systematic and meaningful way. They make kanji learning more captivating and fun!
 
 ## Textbook
 
