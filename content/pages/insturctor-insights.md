@@ -6,7 +6,7 @@ draft: false
 title: Instructor Insights
 uid: 1c2e1efe-1f53-48bc-84b6-8fc9d63a10af
 ---
-Below, Dr. Takaka Aikawa describes how and why she and Dr. Meghan Perdue created the "Kanji Learning Any Time, Any Place" resource.
+Below, Dr. Takako Aikawa describes how and why she and Dr. Meghan Perdue created the "Kanji Learning Any Time, Any Place" resource.
 
 **OCW:** What can you tell us about how, in creating this resource, you drew on the [Kanji Alive](https://kanjialive.com/) web application, which is available for reuse under a Creative Commons license?
 
