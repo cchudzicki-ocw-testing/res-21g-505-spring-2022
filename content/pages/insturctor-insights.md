@@ -24,7 +24,7 @@ Without her help, I couldn’t create these videos, and our collaboration was fa
 
 Meghan’s knowledge about Kanji characters also helped a lot!
 
-**OCW:** What else would you like to tell us about the kanji videos that we haven’t already covered?
+**OCW:** What else would you like to tell us about the Kanji videos that we haven’t already covered?
 
 **Takako Aikawa:** I am confident that these videos not only provide great scaffolding for students to learn Kanji in a systematic way, but they also make Kanji learning engaging and fun.
 
