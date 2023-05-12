@@ -1,0 +1,31 @@
+---
+content_type: page
+description: This page provides Dr. Takako Aikawa's insights into how and why she
+  and Dr. Meghan Perdue created the "Kanji Learning Any Time, Any Place" resource.
+draft: false
+title: Insturctor Insights
+uid: 1c2e1efe-1f53-48bc-84b6-8fc9d63a10af
+---
+Below, Dr. Takaka Aikawa describes how and why she and Dr. Meghan Perdue created the "Kanji Learning Any Time, Any Place" resource.
+
+**OCW:** What can you tell us about how, in creating this resource, you drew on the [Kanji Alive](https://kanjialive.com/) web application, which is available for reuse under a Creative Commons license?
+
+**Takako Aikawa:** Learning and memorizing Kanji characters is one of the biggest challenges for learners of Japanese. Yet, learning Kanji is time-consuming and is often tedious.  In order to help and accelerate students’ Kanji learning process, I created these Kanji videos that can explain: (i) what radical(s) or component(s) are involved in a Kanji character; (ii) how the meaning of the character arises compositionally through its radical(s) or component(s); (iii) what kinds of readings (“on-readings” and/or “kun-readings”) are available for the character; etc.  Kanji Alive provide such information, and that’s why I used it as the resource.
+
+**OCW:** How do you use these videos in your classes on campus?
+
+**Takako Aikawa:** In my class, students have to take a Kanji reading quiz for each lesson on Canvas, and they had to take it at home.  So my students are expected to learn Kanji first by watching these videos and then take the quiz.  We don’t use these videos in “in-person” classes at all.
+
+**OCW:** You co-created these videos with Dr. Meghan Perdue from MIT’s Digital Learning Lab. Can you tell us how that collaboration worked?
+
+**Takako Aikawa:** First, I created the slides that include all the information about Kanji and then Meghan augmented the illustration components to these slides.
+
+Without her help, I couldn’t create these videos, and our collaboration was fantastic.
+
+Meghan’s knowledge about Kanji characters also helped a lot!
+
+**OCW:** What else would you like to tell us about the kanji videos that we haven’t already covered?
+
+**Takako Aikawa:** I am confident that these videos not only provide great scaffolding for students to learn Kanji in a systematic way, but it also makes their Kanji learning engaging and fun.  
+
+In addition, having readily accessible Kanji videos can support students’ asynchronous learning of Kanji.   This, in turn, helps us better utilize our “in-class” time for more communicative and interactive activities.  Following the production of the first set of videos, students reported to me that the videos were fun and helpful for learning kanji. I hope that these videos can serve as an  example of how blended learning projects can enrich educational experiences and potentially improve learning outcomes.
