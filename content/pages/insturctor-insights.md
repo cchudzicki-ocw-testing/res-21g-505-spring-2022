@@ -10,7 +10,7 @@ Below, Dr. Takako Aikawa describes how and why she and Dr. Meghan Perdue created
 
 **OCW:** What can you tell us about how, in creating this resource, you drew on the [Kanji Alive](https://kanjialive.com/) web application, which is available for reuse under a Creative Commons license?
 
-**Takako Aikawa:** Learning and memorizing Kanji characters is one of the biggest challenges for learners of Japanese; it is time-consuming and is often tedious. In order to help and accelerate students’ Kanji learning process, I created these Kanji videos that can explain: (i) what radical(s) or component(s) are involved in a Kanji character; (ii) how the meaning of the character arises compositionally through its radical(s) or component(s); (iii) what kinds of readings (“*on*\-readings” and/or “*kun*\-readings”) are available for the character; etc. Kanji Alive provides such information, and that’s why I used it as the resource.
+**Takako Aikawa:** Learning and memorizing Kanji characters is one of the biggest challenges for learners of Japanese; it is time-consuming and is often tedious. In order to help and accelerate students’ Kanji learning process, I created these Kanji videos that can explain: (i) what radicals or components are involved in a Kanji character; (ii) how the meaning of the character arises compositionally through its radicals or components; (iii) what kinds of readings (“*on*\-readings” and/or “*kun*\-readings”) are available for the character; etc. Kanji Alive provides such information, and that’s why I used it as the resource.
 
 **OCW:** How do you use these videos in your classes on campus?
 
